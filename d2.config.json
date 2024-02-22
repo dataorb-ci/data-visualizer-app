@@ -6,7 +6,7 @@
   "coreApp": true,
   "minDHIS2Version": "2.40",
   "version": "100.4.0",
-  "description": "DHIS2 Data Visualizer",
+  "description": "DataOrb Data Visualizer",
   "entryPoints": {
     "app": "index.html",
     "plugin": "plugin.html"

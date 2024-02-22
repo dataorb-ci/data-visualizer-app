@@ -3,7 +3,7 @@
   "appType": "APP",
   "short_name": "data-visualizer",
   "name": "Data Visualizer",
-  "description": "DHIS2 Data Visualizer",
+  "description": "DataOrb Data Visualizer",
   "version": "100.4.0",
   "core_app": true,
   "launch_path": "index.html",

@@ -1,7 +1,7 @@
 {
     "name": "data-visualizer-app",
     "version": "100.4.0",
-    "description": "DHIS2 Data Visualizer",
+    "description": "DataOrb Data Visualizer",
     "license": "BSD-3-Clause",
     "private": true,
     "scripts": {

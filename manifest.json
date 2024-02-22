@@ -1,7 +1,7 @@
 {
   "short_name": "Data Visualizer",
   "name": "Data Visualizer",
-  "description": "DHIS2 Data Visualizer",
+  "description": "DataOrb Data Visualizer",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
