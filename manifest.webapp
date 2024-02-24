@@ -1,9 +1,8 @@
 {
-  "app_hub_id": "6f656971-c392-42d8-8363-eb37d9287f3d",
   "appType": "APP",
-  "short_name": "data-visualizer",
-  "name": "Data Visualizer",
-  "description": "DataOrb Data Visualizer",
+  "short_name": "data-visualizer-pro",
+  "name": "Data Visualizer Pro",
+  "description": "DataOrb Data Visualizer Pro",
   "version": "100.4.0",
   "core_app": true,
   "launch_path": "index.html",

@@ -1,12 +1,11 @@
 {
   "type": "app",
-  "name": "data-visualizer",
-  "id": "6f656971-c392-42d8-8363-eb37d9287f3d",
-  "title": "Data Visualizer",
+  "name": "data-visualizer-pro",
+  "title": "Data Visualizer Pro",
   "coreApp": true,
   "minDHIS2Version": "2.40",
   "version": "100.4.0",
-  "description": "DataOrb Data Visualizer",
+  "description": "DataOrb Data Visualizer Pro",
   "entryPoints": {
     "app": "index.html",
     "plugin": "plugin.html"

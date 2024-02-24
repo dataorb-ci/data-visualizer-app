@@ -1,7 +1,7 @@
 {
-  "short_name": "Data Visualizer",
-  "name": "Data Visualizer",
-  "description": "DataOrb Data Visualizer",
+  "short_name": "Data Visualizer Pro",
+  "name": "Data Visualizer Pro",
+  "description": "DataOrb Data Visualizer Pro",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
